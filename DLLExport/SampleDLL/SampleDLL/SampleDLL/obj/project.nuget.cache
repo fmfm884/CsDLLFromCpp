@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xv0M2VtXDwl8QhoGProT0bnMrdYymg9AIKWsSbCf3T6/ZyvRn0CM64XYO6ciTa7zHkt/1YjuhqiuF0TopSFPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\genki\\Desktop\\SampleDLL\\SampleDLL\\SampleDLL\\SampleDLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\genki\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

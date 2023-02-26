@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\genki\\Desktop\\SampleDLL\\SampleDLL\\SampleDLL\\SampleDLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\genki\\Desktop\\SampleDLL\\SampleDLL\\SampleDLL\\SampleDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\genki\\Desktop\\SampleDLL\\SampleDLL\\SampleDLL\\SampleDLL.csproj",
+        "projectName": "SampleDLL",
+        "projectPath": "C:\\Users\\genki\\Desktop\\SampleDLL\\SampleDLL\\SampleDLL\\SampleDLL.csproj",
+        "packagesPath": "C:\\Users\\genki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\genki\\Desktop\\SampleDLL\\SampleDLL\\SampleDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\genki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "DllExport": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
