@@ -1,0 +1,2 @@
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\CsWrapperCppCLI\x64\Debug\CsWrapperCppCLI.vcxproj.AssemblyReference.cache
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\CsWrapperCppCLI\x64\Debug\CsWrapperCppCLI.vcxproj.CopyComplete

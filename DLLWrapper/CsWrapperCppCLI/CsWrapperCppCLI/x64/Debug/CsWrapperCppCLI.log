@@ -1,0 +1,6 @@
+﻿  CsWrapperCppCLI.cpp
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\CsWrapperCppCLI\CsWrapperCppCLI.cpp(10,13): warning C4273: 'Add': dll リンケージが一貫していません。
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\CsWrapperCppCLI\CsWrapperCppCLI.h(11,28): message : 'Add' の以前の定義を確認してください
+  AssemblyInfo.obj : MSIL モジュールが見つかりました。MSIL ではインクリメンタル リンクは無効化されています。フル リンクを行います
+     ライブラリ C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\x64\Debug\CsWrapperCppCLI.lib とオブジェクト C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\x64\Debug\CsWrapperCppCLI.exp を作成中
+  CsWrapperCppCLI.vcxproj -> C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\CsWrapperCppCLI\x64\Debug\CsWrapperCppCLI.dll

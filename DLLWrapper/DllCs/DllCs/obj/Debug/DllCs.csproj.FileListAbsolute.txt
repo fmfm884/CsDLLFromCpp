@@ -1,0 +1,6 @@
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\DllCs\DllCs\bin\Debug\DllCs.dll
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\DllCs\DllCs\bin\Debug\DllCs.pdb
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\DllCs\DllCs\obj\Debug\DllCs.csproj.AssemblyReference.cache
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\DllCs\DllCs\obj\Debug\DllCs.csproj.CoreCompileInputs.cache
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\DllCs\DllCs\obj\Debug\DllCs.dll
+C:\Users\genki\Desktop\CsDLLFromCpp\DLLWrapper\DllCs\DllCs\obj\Debug\DllCs.pdb
